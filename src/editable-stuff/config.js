@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/Ahmed Khalid Mohamed.png"),
   imageSize: 375,
   message:
     "I am Ahmed Khalid, a 2024 graduate of October University for Modern Sciences & Arts (MSA) in Egypt. I hold a Bachelor of Science degree in Computer Systems Engineering, and I achieved the 1st rank in my class. My passion lies in developing robust software solutions with a focus on rapid software delivery using a DevOps mindset. I am dedicated to expanding my knowledge in both software development and operations to better understand the IT landscape.",
